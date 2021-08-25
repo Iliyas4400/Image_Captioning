@@ -15,7 +15,7 @@ All the images are converted to vectors of suitable dimensions and passed into T
 
 ### Model ###
 Encoder Decoder model is used with teacher forcing technique.
-![alt text](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/11/working-of-Deep-CNN-Python-project.png)
+![alt text](https://raw.githubusercontent.com/yunjey/pytorch-tutorial/master/tutorials/03-advanced/image_captioning/png/model.png)
  
 
 
